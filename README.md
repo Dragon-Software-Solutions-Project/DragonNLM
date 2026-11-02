@@ -41,11 +41,6 @@ This release is a ZIP package, not an installer. Python does not need to be inst
 - Saved application settings.
 
 ## Activation and saved settings
-
-Licence data and saved settings are stored per Windows user in:
-
-```text
-%LOCALAPPDATA%\DragonSoftwareSolutions\DragonNLM
 ```
 
 Activation and saved settings persist after restarting the application. Users upgrading from older versions may need to activate once because this version uses a new local data location. Keep this data folder when replacing the application folder for an update.
