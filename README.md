@@ -6,22 +6,23 @@ Official Windows downloads and release notes for Dragon NECO Label Master, devel
 
 DragonNLM helps authorised organisations prepare NECO examination docket labels, box labels and packing lists from Excel data, preview the output and generate PDF files for printing.
 
-## Download
+## Download and install
 
-[View the latest release and download the Windows ZIP](https://github.com/Dragon-Software-Solutions-Project/DragonNLM/releases/latest).
+1. Open the [latest release](https://github.com/Dragon-Software-Solutions-Project/DragonNLM/releases/latest).
+2. Under Assets, download `DragonNLM-v2.09-Windows-x64-Installer.zip`.
+3. Extract the ZIP and run `DragonNLM-v2.09-Windows-x64-Setup.exe`.
+4. Follow the setup wizard, read and accept the licence agreement, and select the optional desktop shortcut.
+5. Finish installation and launch DragonNLM.
 
-Under **Assets**, select the application ZIP named `DragonNLM-v<version>-Windows-x64.zip`. GitHub's automatically generated **Source code** archives contain the repository documents, not the application.
+The installer includes all required application files. Python installation is not required.
 
-## Run the application
+A valid licence and internet access are required for activation and online licence checks. On first launch, enter your licence key and complete activation. An existing registered computer can reactivate using the same valid licence.
 
-1. Read the [End User Licence Agreement](EULA.md) and [Terms of Use](Terms-of-Use.md).
-2. Download the Windows application ZIP from the release assets.
-3. Extract the entire ZIP to a folder on your computer.
-4. Open the extracted `DragonNLM` folder and run `DragonNLM.exe`.
-5. Keep the `_internal` folder alongside the EXE. Do not run the application from inside the ZIP.
-6. Verify and activate a valid licence when prompted, then log in.
+Future launches can use the desktop or Start menu shortcut.
 
-This release is a ZIP package, not an installer. Python does not need to be installed to run the packaged application.
+Read the [EULA](EULA.md) and [Terms of Use](Terms-of-Use.md) before using the application.
+
+The automatically generated Source code archives contain repository documentation, not the application.
 
 ## Requirements
 
